@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/28 19:18:09.000.811,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/11/28 19:18:09.000.514,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/11/28 19:35:32.000.698,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\RAD\Kalkulator\Project1PCH1.h</Transaction>
+    <Transaction>2023/11/28 19:35:33.000.104,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\RAD\Kalkulator\Project1.cbproj</Transaction>
+    <Transaction>2023/11/28 19:35:33.000.041,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\RAD\Kalkulator\Unit1.cpp</Transaction>
+    <Transaction>2023/11/28 19:35:33.000.041,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\RAD\Kalkulator\Unit1.h</Transaction>
+    <Transaction>2023/11/28 19:35:33.000.041,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\RAD\Kalkulator\Unit1.dfm</Transaction>
+    <Transaction>2023/11/28 19:35:51.000.715,C:\RAD\Kalkulator\Unit1.h=C:\RAD\Kalkulator\kalkulator.h</Transaction>
+    <Transaction>2023/11/28 19:35:51.000.715,C:\RAD\Kalkulator\Unit1.dfm=C:\RAD\Kalkulator\kalkulator.dfm</Transaction>
+    <Transaction>2023/11/28 19:35:51.000.715,C:\RAD\Kalkulator\Unit1.cpp=C:\RAD\Kalkulator\kalkulator.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
